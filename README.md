@@ -3,6 +3,9 @@ bartoleo.github.io
 
 experiments
 
+[my blog][blog_url]
+[blog_url]:http://bartololeo.blogspot.it/
+
 ```
 code...
 code...
